@@ -57,3 +57,56 @@ The notebook recommends movies based on movie genres and user ratings.
 
 ## Author
 harini kodiganti
+README FOR CREDICT CARD FRAUD DETECTION PROJECT
+# Credit Card Fraud Detection
+
+## Project Overview
+
+This project detects fraudulent credit card transactions using Machine Learning.
+
+## Features
+
+- Synthetic Dataset (Generated in Code)
+- Data Preprocessing
+- Feature Scaling
+- Undersampling
+- Logistic Regression
+- Random Forest
+- Isolation Forest
+- Model Evaluation
+- Confusion Matrix
+- ROC-AUC Score
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+
+## Models Used
+
+- Logistic Regression
+- Random Forest
+- Isolation Forest
+
+## Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+```
+
+Open the notebook and click **Run All**.
+
+## Author
+
+harini kodiganti
